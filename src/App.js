@@ -26,8 +26,8 @@ function App() {
             <Route path="/" component={Welcome} exact/>
             <Route path="/MyMap" component={MyMap} exact />
             <Route path="/Company" component={Company} exact />
-            <Route path="/products/Bags" component={Products} exact />
-            <Route path="/products/Bags/:id" component={Details} exact /> 
+            <Route path="/products/bags" component={Products} exact />
+            <Route path="/products/bags/:id" component={Details} exact /> 
           </Switch>
         {/*</Container>*/}
       </main>

@@ -12,7 +12,7 @@ const Bags = ({url}) => {
             <CardGroup>
                 <Card className="my-2 rounded">
                     {url ?
-                        <a href={`/products/Bags/${url.id}`}>
+                        <a href={`/products/bags/${url.id}`}>
                             <Card.Img  variant="top" src={url.img || "holder.js/400px300"} />
                         </a>
                     :

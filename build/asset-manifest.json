@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/eCommerce/static/css/main.ea7eb6c6.chunk.css",
-    "main.js": "/eCommerce/static/js/main.0ae26cad.chunk.js",
-    "main.js.map": "/eCommerce/static/js/main.0ae26cad.chunk.js.map",
-    "runtime-main.js": "/eCommerce/static/js/runtime-main.a2b828fc.js",
-    "runtime-main.js.map": "/eCommerce/static/js/runtime-main.a2b828fc.js.map",
-    "static/css/2.d5972c72.chunk.css": "/eCommerce/static/css/2.d5972c72.chunk.css",
-    "static/js/2.8893402e.chunk.js": "/eCommerce/static/js/2.8893402e.chunk.js",
-    "static/js/2.8893402e.chunk.js.map": "/eCommerce/static/js/2.8893402e.chunk.js.map",
-    "static/js/3.55b29172.chunk.js": "/eCommerce/static/js/3.55b29172.chunk.js",
-    "static/js/3.55b29172.chunk.js.map": "/eCommerce/static/js/3.55b29172.chunk.js.map",
-    "index.html": "/eCommerce/index.html",
-    "static/css/2.d5972c72.chunk.css.map": "/eCommerce/static/css/2.d5972c72.chunk.css.map",
-    "static/css/main.ea7eb6c6.chunk.css.map": "/eCommerce/static/css/main.ea7eb6c6.chunk.css.map",
-    "static/js/2.8893402e.chunk.js.LICENSE.txt": "/eCommerce/static/js/2.8893402e.chunk.js.LICENSE.txt"
+    "main.css": "/CoryPelle/static/css/main.e9085139.chunk.css",
+    "main.js": "/CoryPelle/static/js/main.77aba635.chunk.js",
+    "main.js.map": "/CoryPelle/static/js/main.77aba635.chunk.js.map",
+    "runtime-main.js": "/CoryPelle/static/js/runtime-main.5e182a4d.js",
+    "runtime-main.js.map": "/CoryPelle/static/js/runtime-main.5e182a4d.js.map",
+    "static/css/2.d5972c72.chunk.css": "/CoryPelle/static/css/2.d5972c72.chunk.css",
+    "static/js/2.d695467d.chunk.js": "/CoryPelle/static/js/2.d695467d.chunk.js",
+    "static/js/2.d695467d.chunk.js.map": "/CoryPelle/static/js/2.d695467d.chunk.js.map",
+    "static/js/3.66e7c417.chunk.js": "/CoryPelle/static/js/3.66e7c417.chunk.js",
+    "static/js/3.66e7c417.chunk.js.map": "/CoryPelle/static/js/3.66e7c417.chunk.js.map",
+    "index.html": "/CoryPelle/index.html",
+    "static/css/2.d5972c72.chunk.css.map": "/CoryPelle/static/css/2.d5972c72.chunk.css.map",
+    "static/css/main.e9085139.chunk.css.map": "/CoryPelle/static/css/main.e9085139.chunk.css.map",
+    "static/js/2.d695467d.chunk.js.LICENSE.txt": "/CoryPelle/static/js/2.d695467d.chunk.js.LICENSE.txt",
+    "static/media/cropLogo.e55ad7c7.png": "/CoryPelle/static/media/cropLogo.e55ad7c7.png",
+    "static/media/ff.6202ea28.jpg": "/CoryPelle/static/media/ff.6202ea28.jpg",
+    "static/media/images.bd198afc.jpg": "/CoryPelle/static/media/images.bd198afc.jpg",
+    "static/media/shop.2649458a.jpg": "/CoryPelle/static/media/shop.2649458a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a2b828fc.js",
+    "static/js/runtime-main.5e182a4d.js",
     "static/css/2.d5972c72.chunk.css",
-    "static/js/2.8893402e.chunk.js",
-    "static/css/main.ea7eb6c6.chunk.css",
-    "static/js/main.0ae26cad.chunk.js"
+    "static/js/2.d695467d.chunk.js",
+    "static/css/main.e9085139.chunk.css",
+    "static/js/main.77aba635.chunk.js"
   ]
 }
