@@ -1,6 +1,7 @@
 import React from 'react';
 import { Card,CardGroup, Container } from 'react-bootstrap'
 import '../../theCSS.css'
+import {Link} from 'react-router-dom';
 import CircularProgress from '@material-ui/core/CircularProgress';
 import Rating from './rating'
 
@@ -12,9 +13,9 @@ const Bags = ({url}) => {
             <CardGroup>
                 <Card className="my-2 rounded">
                     {url ?
-                        <a href={`/products/bags/${url.id}`}>
+                        <Link to={`/products/bags/${url.id}`}>
                             <Card.Img  variant="top" src={url.img || "holder.js/400px300"} />
-                        </a>
+                        </Link>
                     :
                     <div className="myprogress">
                         <CircularProgress color="secondary" />
