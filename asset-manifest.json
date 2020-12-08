@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CoryPelle/static/css/main.e9085139.chunk.css",
-    "main.js": "/CoryPelle/static/js/main.77aba635.chunk.js",
-    "main.js.map": "/CoryPelle/static/js/main.77aba635.chunk.js.map",
+    "main.js": "/CoryPelle/static/js/main.73e635d7.chunk.js",
+    "main.js.map": "/CoryPelle/static/js/main.73e635d7.chunk.js.map",
     "runtime-main.js": "/CoryPelle/static/js/runtime-main.5e182a4d.js",
     "runtime-main.js.map": "/CoryPelle/static/js/runtime-main.5e182a4d.js.map",
     "static/css/2.d5972c72.chunk.css": "/CoryPelle/static/css/2.d5972c72.chunk.css",
@@ -24,6 +24,6 @@
     "static/css/2.d5972c72.chunk.css",
     "static/js/2.d695467d.chunk.js",
     "static/css/main.e9085139.chunk.css",
-    "static/js/main.77aba635.chunk.js"
+    "static/js/main.73e635d7.chunk.js"
   ]
 }
